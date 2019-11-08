@@ -168,6 +168,8 @@ p {
   align-items: center;
   font-size: 2rem;
   width: 100%;
+  position: fixed;
+  opacity: 0.5;
   background-color: #F6F6F6;
 }
 .nav .nav-div {
@@ -326,7 +328,7 @@ footer {
     justify-content: center;
     flex-direction: column;
   }
-  .walk-text .btn {
+  .home .walk .walk-text .btn {
     width: 100%;
   }
 }
